@@ -1,4 +1,4 @@
-### Olá, Eu sou André.
+### Olá, Eu sou André Santos.
 
 - 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante.
