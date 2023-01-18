@@ -6,11 +6,7 @@
 - 🔭 Apaixonado por tecnologia.
 - 🌱 Estudante.
 
-<div>
-  
-  <img  height="145em" src="https://github-readme-stats.vercel.app/api?username=ANDRE-SANTOSDS&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANDRE-SANTOSDS&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+
 <br>
 
 <h1 align="center">Melhores Tecnologias <3</h1>
